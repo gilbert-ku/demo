@@ -1,3 +1,16 @@
 *{
     background-color: antiquewhite;
+    margin: o;
+    padding: 0;
+
+}
+span {
+    background-color: gray;
+}
+h1 {
+    text-align: center;
+    color: whitesmoke;
+    font-weight: 700;
+    font-style: italic;
+    
 }
