@@ -12,5 +12,12 @@ h1 {
     color: whitesmoke;
     font-weight: 700;
     font-style: italic;
-    
+
 }
+img{
+    /*float: ;*/
+    margin:  10px, 20px, 5px;
+    margin-left: 20px;
+    padding: 0%;
+}
+    
